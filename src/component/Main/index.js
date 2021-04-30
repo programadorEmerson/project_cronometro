@@ -13,7 +13,7 @@ class Main extends Component {
 const main = () => {
   return (
     <main>
-      <h1>TIMMER TRYBE-X</h1>
+      <h1>TIMMER TryB-X</h1>
       <section className='content'>
         <Contador />
         <Keyboard />
