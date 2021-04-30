@@ -1,0 +1,32 @@
+.botao {
+  display: flex;
+  width: 70%;
+  padding: 10px 10px 10px 15px;
+  align-items: center;
+  justify-content: center;
+  margin: 25px;
+  border-radius: 7px;
+  background-color: #2c3e50;
+  color: white;
+  font-weight: 600;
+  font-family: "Righteous", cursive;
+  transition: 0.2s;
+}
+.botao:hover {
+  background-color: #e74c3c;
+  color: white;
+  transition: 0.2s;
+}
+
+.fasBotao {
+  color: #ecf0f1;
+  padding-right: 10px;
+  font-size: 20px;
+}
+
+.controlers {
+  display: flex;
+  width: 100%;
+  align-content: center;
+  justify-content: space-evenly;
+}

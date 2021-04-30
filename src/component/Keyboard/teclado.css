@@ -1,0 +1,40 @@
+.teclado {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.teclado {
+  color: #ecf0f1;
+  font-weight: 600;
+  padding: 05px;
+  flex-wrap: wrap;
+  width: 40%;
+}
+
+.teclado i {
+  color: #ecf0f1;
+  font-size: 20px;
+}
+
+.number {
+  color: #ecf0f1;
+  font-weight: 600;
+  display: flex;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  font-size: 25px;
+  background-color: #2c3e50;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  font-family: "Righteous", cursive;
+  transition: 0.2s;
+}
+
+.number:hover {
+  background-color: #e74c3c;
+  color: white;
+  transition: 0.2s;
+}

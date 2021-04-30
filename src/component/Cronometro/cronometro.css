@@ -1,0 +1,24 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: #2c3e50;
+  font-weight: 600;
+  font-size: 35px;
+  padding: 20px;
+  font-family: "Righteous", cursive;
+}
+
+.cronometro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100vh;
+  flex-direction: column;
+  background-color: #bdc3c7;
+}
