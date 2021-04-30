@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/timmer/static/css/main.ff506c0b.chunk.css",
+    "main.js": "/timmer/static/js/main.610a5131.chunk.js",
+    "main.js.map": "/timmer/static/js/main.610a5131.chunk.js.map",
+    "runtime-main.js": "/timmer/static/js/runtime-main.0779e955.js",
+    "runtime-main.js.map": "/timmer/static/js/runtime-main.0779e955.js.map",
+    "static/js/2.5b0b858c.chunk.js": "/timmer/static/js/2.5b0b858c.chunk.js",
+    "static/js/2.5b0b858c.chunk.js.map": "/timmer/static/js/2.5b0b858c.chunk.js.map",
+    "index.html": "/timmer/index.html",
+    "static/css/main.ff506c0b.chunk.css.map": "/timmer/static/css/main.ff506c0b.chunk.css.map",
+    "static/js/2.5b0b858c.chunk.js.LICENSE.txt": "/timmer/static/js/2.5b0b858c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0779e955.js",
+    "static/js/2.5b0b858c.chunk.js",
+    "static/css/main.ff506c0b.chunk.css",
+    "static/js/main.610a5131.chunk.js"
+  ]
+}
